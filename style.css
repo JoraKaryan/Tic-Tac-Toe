@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(138, 209, 194);
+  }
+h1 {
+    margin-top: 80px;
+    margin-left: 43%;
+    color: blue;
+  }
+  h2 {
+    margin-top: 5px;
+    margin-left: 43%;
+    color: blue;
+  }
+button {
+    margin-left: 60%;
+
+}
+.tblclass {
+    margin: auto;
+    margin-top: 50px;
+    border: 2px solid;
+    font-size: 40px;
+}
+
+td {
+    border: 1px solid black;
+    height: 70px; /* Adjust the height as needed */
+    width: 70px; /* Adjust the width as needed */
+    text-align: center; /* Center the text horizontally */
+    vertical-align: middle; /* Center the text vertically */
+}
